@@ -3,5 +3,5 @@
 	"appName": "photo-gallery",
 	"webDir": "build",
 	"bundledWebRuntime": false,
-	"linuxAndroidStudioPath": "/usr/local/android-studio/bin/studio.sh"
+	"linuxAndroidStudioPath": "/android-studio/bin/studio.sh"
 }
